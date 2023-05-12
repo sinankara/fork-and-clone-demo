@@ -6,3 +6,9 @@ My favorite ice cream flavors:
 
 - Kakaolu
 - Sade
+
+Karasinan's favorite ice cream flavors:
+
+- Fistikli
+- Lemon
+- Sunflower seed
